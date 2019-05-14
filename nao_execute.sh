@@ -1,2 +1,2 @@
-#/usr/local/bash/
-echo 'Não execute esse script...'
+#!/usr/bin/bash/
+echo 'Você executou...'
